@@ -1,0 +1,17 @@
+build/
+build-*/
+release/
+Release/
+.DS_Store
+ui素材/.DS_Store
+ui素材/**/.DS_Store
+*.log
+__pycache__/
+*.py[cod]
+.release-tools/
+.release-owner.conf
+Marketing/DemoVideo/*concept*.mp4
+UI/v3/audit-*/
+UI/v3/qa-alignment-*/
+UI/v3/qa-detents-*/
+ui素材/design-targets/
